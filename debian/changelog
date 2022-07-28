@@ -1,0 +1,5 @@
+python-backoff (2.1.2-0pexip1) pexip-bullseye; urgency=medium
+
+  * Prepare Pexip Packaging
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 28 Jul 2022 13:47:02 +0100

@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: python-backoff
+Upstream-Contact: https://github.com/litl/backoff
+Source: https://github.com/litl/backoff
+
+Files: *
+Copyright: 2014 litl, LLC
+License: MIT
+
+Files: debian/*
+Copyright: 2022 Pexip AS <packaging@pexip.com>
+License: MIT
